@@ -29,5 +29,4 @@ Below are the key report items,
     *   Monthly average security delay by reporting airline for the given year.
     *   Monthly average late aircraft delay by reporting airline for the given year.
 
-    *NOTE:* You have worked created the same dashboard components in `Flight Delay Time Statistics Dashboard` section. We will be reusing the same.
 
